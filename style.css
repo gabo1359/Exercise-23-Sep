@@ -1,0 +1,27 @@
+a {
+    color: red;
+    font-weight: bold;
+}
+
+.primero {
+    color: rgb(50, 67, 219);
+}
+
+.normal {
+    color: black;
+}
+
+.black {
+    color: rgb(27, 27, 92);
+    background-color: hsl(60, 100%, 87%);
+    font-weight: bold;
+}
+
+.especial {
+    color: yellow;
+    background-color: black;
+}
+
+span {
+    font-weight: bold;
+}
